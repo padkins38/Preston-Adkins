@@ -6,31 +6,33 @@ namespace Testtest
     {
         static void Main(string[] args)
         {
-            string firstName, lastName;
-            double gpa;
+            for (int i = 1; i <= 100; i++)
+            {
+                //if
+                Console.WriteLine($"{i}");
+            }
+            for (int i = 3; i < 1001; i += 3)
+            {
+                //if (i % 3 == 0)
+                //{
+                Console.WriteLine(i);
+                //}
+            }
 
-            Console.WriteLine("Enter your first name or else >>");
-            firstName = Console.ReadLine();
+            Console.WriteLine();
+            for (int i = 10; i < 0; i--)
+            {
+                //use the subtract sign above in order to not stay in infinite loop or..
+                if (i == 0)
+                    Console.WriteLine("Blast OFF!");
+                else
+                {
+                    Console.WriteLine(i);
 
-            Console.WriteLine("Enter your last name or else >>");
-            lastName = Console.ReadLine();
-
-            Console.WriteLine("Enter your gpa");
-            string gpaAsString = Console.ReadLine();
-            gpa = Convert.ToDouble(gpaAsString);
-
-            gpa = gpa + .5; //idk why but we want to bump everyone's gpa by .5
-
-            string output = "Hello" + firstName + " " + lastName + "! " +
-                " we boosted your gpa to " + gpa.ToString("N3");
-            //output = $"Hello {firstName} {lastName}! we boosted your gpa to {gpa.ToString("N3")}
-
-            Console.WriteLine(output);
+                }
 
 
-         
-
-
+            }
         }
     }
 }
