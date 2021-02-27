@@ -42,7 +42,7 @@ namespace Guess_a_number
 
             //Generate randNbr
             Random rand = new Random();
-            RanNbr = rand.Next(MinNbr, MaxNbr + 1);
+            RanNbr = rand.Next(MinNbr + 1, MaxNbr + 1);
 
             Console.WriteLine($"Now you have to Guess until you get the random number correct between {answer1} and {answer2}! MWahahahaa >:)");
             string answer3 = Console.ReadLine();
@@ -54,20 +54,19 @@ namespace Guess_a_number
                 Console.WriteLine($"Sorry, {answer3} is an incorrect response. Answer with an Integer.");
                 answer3 = Console.ReadLine();
 
-
-            while (guess != RanNbr)
-            {
-                Console.WriteLine("You need to guess again");
-                answer3 = Console.ReadLine();
-
-                while (int.TryParse(answer3, out guess) == false)
+            }
+                while (guess != RanNbr)
                 {
-                    Console.WriteLine($"Sorry, {answer3} is an incorrect response. Answer with an Integer."); answer3 = Console.ReadLine();
+                    Console.WriteLine("You need to guess again");
+                    answer3 = Console.ReadLine();
+                    while (int.TryParse(answer3, out guess) == false)
+                    {
+                        Console.WriteLine($"Sorry, {answer3} is an incorrect response. Answer with an Integer."); answer3 = Console.ReadLine();
+                    }
                 }
-            }
-            Console.WriteLine("Congratulations!! WOOO! You have guessed the correct numebr!**>> :):)  ");
+                Console.WriteLine("Congratulations!! WOOO! You have guessed the correct numebr!**>> :):)  ");
 
-            }
+            
         }
     }
 }
