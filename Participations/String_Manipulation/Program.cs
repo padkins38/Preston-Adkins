@@ -18,7 +18,7 @@ namespace String_Manipulation
             if (!text.Contains(searchword))
             {
                 Console.WriteLine($"I am sorry, {searchword} was not found in the sentence");
-
+               
                 char[] chararray = searchword.ToCharArray();
                 for (int i = chararray.Length - 1; i >=0; i--)
                 {

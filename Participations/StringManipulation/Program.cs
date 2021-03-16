@@ -12,15 +12,18 @@ namespace StringManipulation
             
 
             string artistWithProperName = artist.ToUpper()[0] + artist.Substring(1,6) +artist.ToUpper()[7] + artist.Substring(8);// OR artist[0].ToString().ToUpper();
-            //Why do we need the substring again? 
+                                                                                                                                 //Why do we need the substring again? 
 
 
             //for(int i = 0; i < artistWithProperName.Length; i++)
             //{
             //    Console.WriteLine(artistWithProperName[i]);
-           // }
-            
-            
+            // }
+
+            for (int i = 0; i < length; i++)
+            {
+
+            }
             
             
             

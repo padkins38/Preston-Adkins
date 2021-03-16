@@ -16,7 +16,7 @@ namespace Guess_a_number
             while (int.TryParse(answer1, out MinNbr) == false)
             {
                 Console.WriteLine($"Sorry, {answer1} is an incorrect response.");
-
+          
             }
 
             Console.WriteLine("Pick an integer that will be used as a Maximum boundary >>>");
@@ -25,6 +25,7 @@ namespace Guess_a_number
             while (int.TryParse(answer2, out MaxNbr) == false)
             {
                 Console.WriteLine($"Sorry, {answer2} is an incorrect response. Answer with an Integer.");
+             
 
             }
 

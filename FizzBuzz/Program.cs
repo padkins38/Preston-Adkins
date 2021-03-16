@@ -5,6 +5,7 @@ namespace FizzBuzz
     class Program
     {
         static void Main(string[] args)
+
         {
             Random rand = new Random();
             int randomNbr = rand.Next(1, 101); //Generates a random number between 1 and 100
