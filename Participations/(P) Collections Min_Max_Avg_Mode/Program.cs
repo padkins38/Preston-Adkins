@@ -76,7 +76,7 @@ namespace _P__Collections_Min_Max_Avg_Mode
             Console.WriteLine($"Your minimum is {minValue.ToString("n2")}.");
             Console.WriteLine($"Your maximum is {maxValue.ToString("n2")}.");
             Console.WriteLine($"your average is {average.ToString("n2")}.");
-            Console.WriteLine($"your mode is {mode}.");
+            Console.WriteLine($"your mode is {mode.ToString("n2")}.");
 
             //This participation took a solid 4 hours out of the day lol! #WTL#WorthToLearn
 
