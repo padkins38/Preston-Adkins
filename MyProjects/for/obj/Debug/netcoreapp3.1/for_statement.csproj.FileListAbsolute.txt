@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_statement.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_statement.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_statement.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_statement.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_statement.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_statement.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_statement.genruntimeconfig.cache

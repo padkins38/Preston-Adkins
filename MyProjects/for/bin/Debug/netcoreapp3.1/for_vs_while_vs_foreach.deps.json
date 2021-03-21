@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "for_vs_while_vs_foreach/1.0.0": {
+        "runtime": {
+          "for_vs_while_vs_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "for_vs_while_vs_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

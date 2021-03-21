@@ -1,0 +1,6 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for clause\bin\Debug\for clause.exe.config
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for clause\bin\Debug\for clause.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for clause\bin\Debug\for clause.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for clause\obj\Debug\for clause.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for clause\obj\Debug\for clause.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for clause\obj\Debug\for clause.pdb

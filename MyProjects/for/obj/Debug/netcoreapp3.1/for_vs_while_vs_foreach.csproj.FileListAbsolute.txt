@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_vs_while_vs_foreach.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_vs_while_vs_foreach.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_vs_while_vs_foreach.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_vs_while_vs_foreach.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_vs_while_vs_foreach.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\bin\Debug\netcoreapp3.1\for_vs_while_vs_foreach.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\for\obj\Debug\netcoreapp3.1\for_vs_while_vs_foreach.genruntimeconfig.cache

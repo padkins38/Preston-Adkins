@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
