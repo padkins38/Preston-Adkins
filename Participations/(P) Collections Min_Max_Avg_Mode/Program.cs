@@ -11,6 +11,7 @@ namespace _P__Collections_Min_Max_Avg_Mode
             List<double> examGrades = new List<double>();
             string response;
             double answer;
+
             do
             {   
                 // 0     1      2
@@ -53,20 +54,21 @@ namespace _P__Collections_Min_Max_Avg_Mode
                 average = sum / arrayOfGrades.Length;
             }
             //NOW FIND THE MODE HERE
-
+            //Create a DICTIONARY with a Key & Value
             Dictionary<double, double> counts = new Dictionary<double, double>();
-            foreach (int newVar in examGrades)
-            {
+            
+            foreach (int newVar in examGrades)//basically if the dictionary contains the variable it will track if it is repeated
+            {                                 //This ALLOWS the CODE to TRACK WHICH double in the list is REPEATED the MOST.
                 if (counts.ContainsKey(newVar))
                     counts[newVar] = counts[newVar] + 1;
                 else
                     counts[newVar] = 1;
             }
-
             double mode = double.MinValue;
             double max = double.MinValue;
-            foreach (int key in counts.Keys)
-            {
+
+            foreach (int key in counts.Keys) //this loop just DETERMINES the outcome between the difference of a count of 1
+            {                                // vs a count > 1. This loop DETERMINES the mode and OUTPUTS it.
                 if (counts[key] > max)
                 {
                     max = counts[key];
