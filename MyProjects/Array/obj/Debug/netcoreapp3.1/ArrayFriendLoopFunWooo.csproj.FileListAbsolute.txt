@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\bin\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Array\obj\Debug\netcoreapp3.1\ArrayFriendLoopFunWooo.genruntimeconfig.cache

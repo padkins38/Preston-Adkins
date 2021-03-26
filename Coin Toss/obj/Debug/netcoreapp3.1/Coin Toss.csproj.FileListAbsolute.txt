@@ -1,0 +1,13 @@
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\bin\Debug\netcoreapp3.1\Coin Toss.exe
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\bin\Debug\netcoreapp3.1\Coin Toss.deps.json
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\bin\Debug\netcoreapp3.1\Coin Toss.runtimeconfig.json
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\bin\Debug\netcoreapp3.1\Coin Toss.runtimeconfig.dev.json
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\bin\Debug\netcoreapp3.1\Coin Toss.dll
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\bin\Debug\netcoreapp3.1\Coin Toss.pdb
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.AssemblyInfoInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.AssemblyInfo.cs
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.csproj.CoreCompileInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.dll
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.pdb
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.genruntimeconfig.cache
+C:\Users\padki\source\repos\Preston-Adkins\Coin Toss\obj\Debug\netcoreapp3.1\Coin Toss.csprojAssemblyReference.cache

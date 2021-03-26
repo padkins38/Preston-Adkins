@@ -1,0 +1,13 @@
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\padki\source\repos\Preston-Adkins\Testtest\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

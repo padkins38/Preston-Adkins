@@ -25,13 +25,24 @@ namespace _P__Collections_Min_Max_Avg_Mode
                 response = Console.ReadLine();
             } while (response.ToLower()[0] == 'y');
             //PULL THE LIST OUT INTO AN ARRAY
-            double[] arrayOfGrades = examGrades.ToArray();
+            double[] arrayOfGrades = examGrades.ToArray();//didn't need to convert to array --> could have just used foreach
                 
             double minValue;
             double maxValue;
             /*double arraySize = examGrades.Count;*/
+            
 
-           //FIND THE MIN && MAX
+            //Alternative solution for min
+        /*    double min = examGrades[0];
+            foreach (double grade in examGrades)
+            {
+                if (grade < min)
+                {
+                    min = grade;
+                }
+            }                                   */
+
+            //FIND THE MIN && MAX 
             minValue = maxValue = arrayOfGrades[0];
 
             for (int i = 0; i < arrayOfGrades.Length; i++)
@@ -53,6 +64,29 @@ namespace _P__Collections_Min_Max_Avg_Mode
                 sum += arrayOfGrades[i];
                 average = sum / arrayOfGrades.Length;
             }
+
+            Console.WriteLine("Please enter your exam grade >>");
+            double grade = Convert.ToDouble(Console.ReadLine());
+            examGrades.Add(grade);
+
+            /*Trying to get alternate Mode solution but im too slow lol
+            do
+            {
+                if (examGrades.ContainsKey(examGrades) == false))
+                {
+                    examGrades.Add(examGrades, 1);
+                }
+                else
+                {   
+                Console.WriteLine("Do you have another exam grade to enter? yes no?");
+                answer = Console.ReadLine();
+                }
+            } while (answer.ToLower()[0] == 'y');
+
+
+            double min = examGrades[0];
+            int max0ccurrences = 0;        */
+
             //NOW FIND THE MODE HERE
             //Create a DICTIONARY with a Key & Value
             Dictionary<double, double> counts = new Dictionary<double, double>();

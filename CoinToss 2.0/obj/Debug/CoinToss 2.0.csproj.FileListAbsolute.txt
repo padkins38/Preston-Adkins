@@ -1,0 +1,7 @@
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\bin\Debug\CoinToss 2.0.exe.config
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\bin\Debug\CoinToss 2.0.exe
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\bin\Debug\CoinToss 2.0.pdb
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\obj\Debug\CoinToss 2.0.csprojAssemblyReference.cache
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\obj\Debug\CoinToss 2.0.csproj.CoreCompileInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\obj\Debug\CoinToss 2.0.exe
+C:\Users\padki\source\repos\Preston-Adkins\CoinToss 2.0\obj\Debug\CoinToss 2.0.pdb

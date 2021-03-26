@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.genruntimeconfig.cache

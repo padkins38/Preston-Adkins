@@ -1,0 +1,13 @@
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.exe
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.deps.json
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.json
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfo.cs
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\padki\source\repos\Preston-Adkins\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.genruntimeconfig.cache

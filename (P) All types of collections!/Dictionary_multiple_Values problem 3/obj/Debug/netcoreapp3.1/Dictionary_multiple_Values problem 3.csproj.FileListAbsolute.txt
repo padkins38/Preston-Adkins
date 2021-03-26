@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\bin\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\bin\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\bin\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\bin\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\bin\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\bin\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\Dictionary_multiple_Values problem 3\obj\Debug\netcoreapp3.1\Dictionary_multiple_Values problem 3.genruntimeconfig.cache

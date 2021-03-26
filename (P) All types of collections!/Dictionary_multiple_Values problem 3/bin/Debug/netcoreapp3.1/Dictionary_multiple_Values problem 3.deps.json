@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dictionary_multiple_Values problem 3/1.0.0": {
+        "runtime": {
+          "Dictionary_multiple_Values problem 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionary_multiple_Values problem 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

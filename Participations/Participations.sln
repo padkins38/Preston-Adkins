@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String_Manipulation", "Stri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read in", "Read in\Read in.csproj", "{071D7590-ADDD-4B89-BF10-52D97EB28455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(P) Collections Min_Max_Avg_Mode", "(P) Collections Min_Max_Avg_Mode\(P) Collections Min_Max_Avg_Mode.csproj", "{C683AE72-D2D6-43F6-85A0-ED1815039CBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Collections Min_Max_Avg_Mode", "(P) Collections Min_Max_Avg_Mode\(P) Collections Min_Max_Avg_Mode.csproj", "{C683AE72-D2D6-43F6-85A0-ED1815039CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionary_multiple_values problem 3", "dictionary_multiple_values problem 3\dictionary_multiple_values problem 3.csproj", "{9EB7724D-4FE3-472E-B901-B5FCA57660A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C683AE72-D2D6-43F6-85A0-ED1815039CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C683AE72-D2D6-43F6-85A0-ED1815039CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C683AE72-D2D6-43F6-85A0-ED1815039CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB7724D-4FE3-472E-B901-B5FCA57660A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB7724D-4FE3-472E-B901-B5FCA57660A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB7724D-4FE3-472E-B901-B5FCA57660A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB7724D-4FE3-472E-B901-B5FCA57660A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
