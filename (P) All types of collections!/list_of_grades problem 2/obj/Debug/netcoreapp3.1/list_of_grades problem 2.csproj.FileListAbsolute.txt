@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\bin\Debug\netcoreapp3.1\list_of_grades problem 2.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\bin\Debug\netcoreapp3.1\list_of_grades problem 2.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\bin\Debug\netcoreapp3.1\list_of_grades problem 2.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\bin\Debug\netcoreapp3.1\list_of_grades problem 2.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\bin\Debug\netcoreapp3.1\list_of_grades problem 2.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\bin\Debug\netcoreapp3.1\list_of_grades problem 2.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\list_of_grades problem 2\obj\Debug\netcoreapp3.1\list_of_grades problem 2.genruntimeconfig.cache

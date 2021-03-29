@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\bin\Debug\netcoreapp3.1\parallel arrays problem 1.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\bin\Debug\netcoreapp3.1\parallel arrays problem 1.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\bin\Debug\netcoreapp3.1\parallel arrays problem 1.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\bin\Debug\netcoreapp3.1\parallel arrays problem 1.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\bin\Debug\netcoreapp3.1\parallel arrays problem 1.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\bin\Debug\netcoreapp3.1\parallel arrays problem 1.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\(P) All types of collections!\parallel arrays problem 1\obj\Debug\netcoreapp3.1\parallel arrays problem 1.genruntimeconfig.cache

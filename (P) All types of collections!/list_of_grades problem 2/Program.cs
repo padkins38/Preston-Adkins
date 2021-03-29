@@ -24,8 +24,13 @@ namespace list_of_grades_problem_2
                 answer = Console.ReadLine();
             } while (answer.ToLower()[0] == 'y');
 
-            
+            double sum = 0;
 
+            foreach (double grade in grades)
+            {
+                sum = sum + grade / grades.Count;
+            }
+            Console.WriteLine($"Your average grade is {sum.ToString()}");
         }
     }
 }
