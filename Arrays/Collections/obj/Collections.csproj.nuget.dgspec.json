@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj",
         "projectName": "Collections",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Collections\\Collections.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Collections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",

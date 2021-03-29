@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj",
         "projectName": "Lists",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Lists\\Lists.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Arrays\\Lists\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Arrays\\Lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",
