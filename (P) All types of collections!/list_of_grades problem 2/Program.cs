@@ -28,7 +28,7 @@ namespace list_of_grades_problem_2
 
             foreach (double grade in grades)
             {
-                sum = sum + grade / grades.Count;
+                sum += grade / grades.Count;
             }
             Console.WriteLine($"Your average grade is {sum.ToString()}");
         }

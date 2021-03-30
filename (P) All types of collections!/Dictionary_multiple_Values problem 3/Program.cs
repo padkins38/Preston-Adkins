@@ -7,6 +7,7 @@ namespace Dictionary_multiple_Values_problem_3
     {
         static void Main(string[] args)
         {
+            #region Problem 3
             Dictionary<string, List<double>> courseGrades = new Dictionary<string, List<double>>();
             courseGrades.Add("MIS3013", new List<double>());   //first way
             courseGrades["MIS3013"].Add(90);
@@ -45,10 +46,10 @@ namespace Dictionary_multiple_Values_problem_3
                 }
                 Console.WriteLine($"The average for the {courseCode} course is {average.ToString("P2")}");
                 Console.WriteLine("=========================================================================");
+                #endregion
 
-                
             }
-            
+
         }
     }
 }
