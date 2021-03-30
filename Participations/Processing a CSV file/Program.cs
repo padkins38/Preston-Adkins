@@ -32,7 +32,7 @@ namespace Processing_a_CSV_file
 
             //make into an array. Easier than List or Dictionary in this case
 
-            for (int i = 0; i < lines.Length; i++)
+            for (int i = 1; i < lines.Length; i++)
             {
                 string currentLineOfFile = lines[i];
                 //    0             1              2        3               4     5       6       7      8       9        10      etc
@@ -41,8 +41,7 @@ namespace Processing_a_CSV_file
                 string[] pieces = currentLineOfFile.Split(",");
                 //       0                1          etc        
                 //{"ORDERNUMBER", {QUANTITYORDERED}, ....}        <<(each one is a seperate string now)>>
-
-
+                
                 //making it easier to select category on if statements
                 string status = pieces[6]; 
                 double sales = Convert.ToDouble(pieces[4]);
@@ -79,51 +78,51 @@ namespace Processing_a_CSV_file
             {
                 if (i == 1)
                 {
-                    Console.WriteLine($"The sum for all January's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all January's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 2)
                 {
-                    Console.WriteLine($"The sum for all February's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all February's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 3)
                 {
-                    Console.WriteLine($"The sum for all March's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all March's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 4)
                 {
-                    Console.WriteLine($"The sum for all April's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all April's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 5)
                 {
-                    Console.WriteLine($"The sum for all May's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all May's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 6)
                 {
-                    Console.WriteLine($"The sum for all June's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all June's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 7)
                 {
-                    Console.WriteLine($"The sum for all July's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all July's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 8)
                 {
-                    Console.WriteLine($"The sum for all August's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all August's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 9)
                 {
-                    Console.WriteLine($"The sum for all September's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all September's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 10)
                 {
-                    Console.WriteLine($"The sum for all October's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all October's is {sumMonths[i].ToString("C")}");
                 }
                 else if (i == 11)
                 {
-                    Console.WriteLine($"The sum for all November's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all November's is {sumMonths[i].ToString("C")}");
                 }
                 else
                 {
-                    Console.WriteLine($"The sum for all December's is {sumMonths[i].ToString()}");
+                    Console.WriteLine($"The sum for all December's is {sumMonths[i].ToString("C")}");
                 }
             }
 
