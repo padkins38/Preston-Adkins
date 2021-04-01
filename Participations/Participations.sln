@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Collections Min_Max_Avg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary_multiple_values problem 3", "dictionary_multiple_values problem 3\dictionary_multiple_values problem 3.csproj", "{9EB7724D-4FE3-472E-B901-B5FCA57660A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processing a CSV file", "Processing a CSV file\Processing a CSV file.csproj", "{D9918AD3-531B-4B9A-B17B-E5085F8ECE34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Processing a CSV file", "Processing a CSV file\Processing a CSV file.csproj", "{D9918AD3-531B-4B9A-B17B-E5085F8ECE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Example1", "Functions_Example1\Functions_Example1.csproj", "{67412D8D-B2DB-4B94-B2A0-AC67B9571155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D9918AD3-531B-4B9A-B17B-E5085F8ECE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9918AD3-531B-4B9A-B17B-E5085F8ECE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9918AD3-531B-4B9A-B17B-E5085F8ECE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
