@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\bin\Debug\netcoreapp3.1\Calculator - Functions.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\bin\Debug\netcoreapp3.1\Calculator - Functions.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\bin\Debug\netcoreapp3.1\Calculator - Functions.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\bin\Debug\netcoreapp3.1\Calculator - Functions.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\bin\Debug\netcoreapp3.1\Calculator - Functions.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\bin\Debug\netcoreapp3.1\Calculator - Functions.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.genruntimeconfig.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Calculator - Functions\obj\Debug\netcoreapp3.1\Calculator - Functions.csprojAssemblyReference.cache

@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Processing a CSV file", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Example1", "Functions_Example1\Functions_Example1.csproj", "{67412D8D-B2DB-4B94-B2A0-AC67B9571155}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator - Functions", "Calculator - Functions\Calculator - Functions.csproj", "{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Example2", "Functions_Example2\Functions_Example2.csproj", "{7936AC31-372B-41BE-AB4E-B9B670BEAB59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67412D8D-B2DB-4B94-B2A0-AC67B9571155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
