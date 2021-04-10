@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj",
         "projectName": "Processing a CSV file",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Processing a CSV file\\Processing a CSV file.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Processing a CSV file\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Processing a CSV file\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",

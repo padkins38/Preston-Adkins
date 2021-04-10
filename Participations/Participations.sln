@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary_multiple_values 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Processing a CSV file", "Processing a CSV file\Processing a CSV file.csproj", "{D9918AD3-531B-4B9A-B17B-E5085F8ECE34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Example1", "Functions_Example1\Functions_Example1.csproj", "{67412D8D-B2DB-4B94-B2A0-AC67B9571155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions_Example1", "Functions_Example1\Functions_Example1.csproj", "{67412D8D-B2DB-4B94-B2A0-AC67B9571155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator - Functions", "Calculator - Functions\Calculator - Functions.csproj", "{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator - Functions", "Calculator - Functions\Calculator - Functions.csproj", "{4C7AC16E-216A-4196-8BE4-39BC3FF3BC91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Example2", "Functions_Example2\Functions_Example2.csproj", "{7936AC31-372B-41BE-AB4E-B9B670BEAB59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions_Example2", "Functions_Example2\Functions_Example2.csproj", "{7936AC31-372B-41BE-AB4E-B9B670BEAB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Method (Speak)", "Simple Method (Speak)\Simple Method (Speak).csproj", "{E511C408-82D1-4629-8B16-733C8DDB975E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7936AC31-372B-41BE-AB4E-B9B670BEAB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E511C408-82D1-4629-8B16-733C8DDB975E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E511C408-82D1-4629-8B16-733C8DDB975E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E511C408-82D1-4629-8B16-733C8DDB975E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E511C408-82D1-4629-8B16-733C8DDB975E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

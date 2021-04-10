@@ -1,0 +1,12 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\bin\Debug\netcoreapp3.1\Simple Method (Speak).exe
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\bin\Debug\netcoreapp3.1\Simple Method (Speak).deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\bin\Debug\netcoreapp3.1\Simple Method (Speak).runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\bin\Debug\netcoreapp3.1\Simple Method (Speak).runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\bin\Debug\netcoreapp3.1\Simple Method (Speak).dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\bin\Debug\netcoreapp3.1\Simple Method (Speak).pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\obj\Debug\netcoreapp3.1\Simple Method (Speak).AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\obj\Debug\netcoreapp3.1\Simple Method (Speak).AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\obj\Debug\netcoreapp3.1\Simple Method (Speak).csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\obj\Debug\netcoreapp3.1\Simple Method (Speak).dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\obj\Debug\netcoreapp3.1\Simple Method (Speak).pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Simple Method (Speak)\obj\Debug\netcoreapp3.1\Simple Method (Speak).genruntimeconfig.cache
