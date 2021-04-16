@@ -1,0 +1,4 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_Example\obj\Debug\netcoreapp3.1\Classes_Example1.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_Example\obj\Debug\netcoreapp3.1\Classes_Example1.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_Example\obj\Debug\netcoreapp3.1\Classes_Example1.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_Example\obj\Debug\netcoreapp3.1\Classes_Example1.csproj.CoreCompileInputs.cache

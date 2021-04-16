@@ -56,7 +56,24 @@ namespace Calculator___Functions
                     Console.WriteLine($"{v1} / {val2} == {Convert.ToString(Divide(v1, val2))}.");
                     final = v1 + val2;
                 }
-                
+                // CAN USE A SWITCH IN THIS SITUATION TO SPEED PROCESS UP
+                /* double result;
+                 switch (calculationAsk)
+                 {
+                     case "add":
+                         result = Add(v1, val2);
+                         break;
+                     case "subtract":
+                         result = Add(v1, val2);
+                         break;
+                     case "multiply":
+                         result = Add(v1, val2);
+                         break;
+                     case "divide":
+                         result = Add(v1, val2);
+                         break;
+                 }   */
+
                 Console.WriteLine("Would you like to Perform a new calculation? (Y/N)");
                 Answer = Console.ReadLine().ToLower();
             }

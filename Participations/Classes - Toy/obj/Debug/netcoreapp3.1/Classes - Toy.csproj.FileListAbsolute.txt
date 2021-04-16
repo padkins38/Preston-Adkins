@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\bin\Debug\netcoreapp3.1\Classes - Toy.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\bin\Debug\netcoreapp3.1\Classes - Toy.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\bin\Debug\netcoreapp3.1\Classes - Toy.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\bin\Debug\netcoreapp3.1\Classes - Toy.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\bin\Debug\netcoreapp3.1\Classes - Toy.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\bin\Debug\netcoreapp3.1\Classes - Toy.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes - Toy\obj\Debug\netcoreapp3.1\Classes - Toy.genruntimeconfig.cache

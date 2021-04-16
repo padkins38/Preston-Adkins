@@ -37,9 +37,9 @@ namespace Simple_Method__Speak_
             else
             {
                 sound = "GObble gObble Gobble";
-                return sound;
+                return;
             }
-            return "sound";
+            return sound;
         }
     }
 }
