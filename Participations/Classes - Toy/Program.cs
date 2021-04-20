@@ -13,7 +13,7 @@ namespace Classes___Toy
             t1.Name = "Milk Chocolate Peanut Clusters 2 pounds";
             t1.Price = 23.00;
             t1.GetAisle();
-            t1.SetNotes("I had these once when my MIS professor brought them to class and I ended up eating 6 because they were so yummy!");
+            t1.AddNotes("I had these once when my MIS professor brought them to class and I ended up eating 6 because they were so yummy!");
             Console.WriteLine($"Manufacturer : {t1.Manufacturer} \nProduct Name : {t1.Name} \nPrice : {t1.Price.ToString("c2")} \nExtra Notes : {t1.GetNotes()}");
             Console.WriteLine($"Aisle Identification : {t1.GetAisle()}");
             Console.WriteLine();
@@ -25,7 +25,7 @@ namespace Classes___Toy
             t2.Name = "construction worker duck (rubber ducky)";
             t2.Price = 2.80;
             t2.GetAisle();
-            t2.SetNotes("Great quality and massive quantity");
+            t2.AddNotes("Great quality and massive quantity");
             Console.WriteLine($"Manufacturer : {t2.Manufacturer} \nProduct Name : {t2.Name} \nPrice : {t2.Price.ToString("c2")} \nExtra Notes : {t2.GetNotes()}");
             Console.WriteLine($"Aisle Identification : {t2.GetAisle()}");
             Console.WriteLine();
