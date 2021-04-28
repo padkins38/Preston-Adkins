@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "(P) Classes - Cereal (read in a File)/1.0.0": {
+        "runtime": {
+          "(P) Classes - Cereal (read in a File).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(P) Classes - Cereal (read in a File)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

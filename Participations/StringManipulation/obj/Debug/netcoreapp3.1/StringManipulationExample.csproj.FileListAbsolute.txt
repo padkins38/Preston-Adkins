@@ -1,0 +1,4 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulationExample.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulationExample.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulationExample.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulationExample.csproj.CoreCompileInputs.cache

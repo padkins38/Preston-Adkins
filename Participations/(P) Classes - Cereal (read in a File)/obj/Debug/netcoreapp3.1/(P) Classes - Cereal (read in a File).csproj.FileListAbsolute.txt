@@ -1,0 +1,14 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).exe
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\Cereal_Data.txt
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\bin\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\(P) Classes - Cereal (read in a File)\obj\Debug\netcoreapp3.1\(P) Classes - Cereal (read in a File).genruntimeconfig.cache

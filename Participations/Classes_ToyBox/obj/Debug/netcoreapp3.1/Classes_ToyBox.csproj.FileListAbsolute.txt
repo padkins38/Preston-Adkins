@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\Participations\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.genruntimeconfig.cache

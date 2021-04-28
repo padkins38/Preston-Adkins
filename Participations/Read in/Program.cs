@@ -40,7 +40,7 @@ namespace Read_in
                
             }
 
-            for (int i = 0; i < footballScores.Count; i++)
+            /*for (int i = 0; i < footballScores.Count; i++)
             {
                 string state = states[i];
                 double soccer = soccerScores[i];
@@ -50,6 +50,10 @@ namespace Read_in
                 {
                     Console.WriteLine(state);
                 }               
+            }
+*/          foreach (var item in footballScores)
+            {
+                Console.WriteLine(item);
             }
         }
     }
