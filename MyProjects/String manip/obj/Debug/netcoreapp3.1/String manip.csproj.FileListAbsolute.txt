@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\bin\Debug\netcoreapp3.1\String manip.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\bin\Debug\netcoreapp3.1\String manip.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\bin\Debug\netcoreapp3.1\String manip.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\bin\Debug\netcoreapp3.1\String manip.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\bin\Debug\netcoreapp3.1\String manip.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\bin\Debug\netcoreapp3.1\String manip.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip\obj\Debug\netcoreapp3.1\String manip.genruntimeconfig.cache

@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "for_vs_while_vs_foreach", "for\for_vs_while_vs_foreach.csproj", "{89C3C07E-A7C8-42B3-B9C7-195B9433B279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayFriendLoopFunWooo", "Array\ArrayFriendLoopFunWooo.csproj", "{E3F12B1D-E802-41C0-9908-F25BCAD70B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayFriendLoopFunWooo", "Array\ArrayFriendLoopFunWooo.csproj", "{E3F12B1D-E802-41C0-9908-F25BCAD70B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String manip", "String manip\String manip.csproj", "{F9D27288-A710-4F40-AC1A-7A57647C7E4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E3F12B1D-E802-41C0-9908-F25BCAD70B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F12B1D-E802-41C0-9908-F25BCAD70B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F12B1D-E802-41C0-9908-F25BCAD70B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D27288-A710-4F40-AC1A-7A57647C7E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D27288-A710-4F40-AC1A-7A57647C7E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D27288-A710-4F40-AC1A-7A57647C7E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D27288-A710-4F40-AC1A-7A57647C7E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
