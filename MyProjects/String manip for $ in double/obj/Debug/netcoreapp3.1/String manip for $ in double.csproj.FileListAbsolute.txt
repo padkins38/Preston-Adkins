@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\bin\Debug\netcoreapp3.1\String manip for $ in double.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\bin\Debug\netcoreapp3.1\String manip for $ in double.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\bin\Debug\netcoreapp3.1\String manip for $ in double.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\bin\Debug\netcoreapp3.1\String manip for $ in double.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\bin\Debug\netcoreapp3.1\String manip for $ in double.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\bin\Debug\netcoreapp3.1\String manip for $ in double.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.csprojAssemblyReference.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\String manip for $ in double\obj\Debug\netcoreapp3.1\String manip for $ in double.genruntimeconfig.cache

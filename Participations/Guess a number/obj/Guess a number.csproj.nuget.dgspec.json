@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj",
         "projectName": "Guess a number",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Guess a number\\Guess a number.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Guess a number\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Guess a number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",

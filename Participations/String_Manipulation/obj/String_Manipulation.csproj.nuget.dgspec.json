@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj",
         "projectName": "String_Manipulation",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\String_Manipulation\\String_Manipulation.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\String_Manipulation\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\String_Manipulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",

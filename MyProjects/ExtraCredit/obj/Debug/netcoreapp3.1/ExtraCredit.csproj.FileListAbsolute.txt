@@ -1,0 +1,14 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\Game_Data.csv
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.genruntimeconfig.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.csprojAssemblyReference.cache

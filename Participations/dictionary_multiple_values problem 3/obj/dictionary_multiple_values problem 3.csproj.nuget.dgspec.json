@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj",
         "projectName": "dictionary_multiple_values problem 3",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\dictionary_multiple_values problem 3.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\dictionary_multiple_values problem 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",
