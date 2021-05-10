@@ -13,10 +13,10 @@ namespace ExtraCredit
             Console.ForegroundColor = ConsoleColor.White;
             List<Game> Games = new List<Game>();
             string[] lines = File.ReadAllLines("Game_Data.csv");
-            double total = 0;
             for (int i = 1; i < lines.Length; i++)
             {
                 Game p = new Game();
+                double total = 0;
                 string line = lines[i];
                 string[] pieces = line.Split(",");
 
@@ -28,18 +28,26 @@ namespace ExtraCredit
                 p.Year = Convert.ToInt32(pieces[2]);
                 p.Genre = pieces[3];
                 p.Publisher = pieces[4];
-                double dataOfSales = Convert.ToDouble(pieces[5]);
-                total += dataOfSales + 1000000;
-                p.GlobalSales = total;
-
+                p.GlobalSales = Convert.ToDouble(pieces[5]);
+             
                 Games.Add(p);
-                Console.WriteLine(p);
+
             }
-            
-
-
-
-
+            /*Console.WriteLine("Which platform");
+            string platform = Console.ReadLine().ToLower();*/
+            Console.WriteLine("What year");
+            string answer = Console.ReadLine().ToLower();
+            foreach (Game item in Games)
+            {
+                /*if (item.Platform.ToLower() == platform)
+                {
+                    Console.WriteLine($"{item.Name}. {item.Platform}. {item.Year}. {item.Genre}. {item.Publisher}. {item.GlobalSales.ToString("N0")}.");
+                }*/
+                if(item.Year == Convert.ToInt32(answer))
+                {
+                    Console.WriteLine($"{item.Name}. {item.Platform}. {item.Year}. {item.Genre}. {item.Publisher}. {item.GlobalSales.ToString("N0")}.");
+                }
+            }
             static string CallData()
             {
                 string[] lines = File.ReadAllLines("Game_Data.csv");

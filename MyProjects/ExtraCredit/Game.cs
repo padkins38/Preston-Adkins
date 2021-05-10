@@ -16,23 +16,29 @@ namespace ExtraCredit
 
         public Game()
         {
-            Name = string.Empty;
-            Platform = string.Empty;
+            Name = "";
+            Platform = "";
             Year = 0;
-            Genre = string.Empty;
-            Publisher = string.Empty;
+            Genre = "";
+            Publisher = "";
             GlobalSales = 0;
         }
-        public Game(int yearID)
+        public override string ToString()
+        {
+            string output = $"{Name}. {Platform}. {Year}. {Genre}. {Publisher}. {GlobalSales.ToString("N0")}.";
+
+            return output;
+        }
+        /*public Game(int year, double salesNum)
         {
             Name = string.Empty;
             Platform = string.Empty;
-            Year = yearID;
+            Year = year;
             Genre = string.Empty;
             Publisher = string.Empty;
-            GlobalSales = 0;
-        }
-        public Game(double salesNum)
+            GlobalSales = salesNum;
+        }*/
+        /*public Game(double salesNum)
         {
             Name = string.Empty;
             Platform = string.Empty;
@@ -40,8 +46,8 @@ namespace ExtraCredit
             Genre = string.Empty;
             Publisher = string.Empty;
             GlobalSales = salesNum;
-        }
-        public Game(string name, string platform, string genre, string publisher)
+        }*/
+        /*public Game(string name, string platform, string genre, string publisher)
         {
             Name = name;
             Platform = platform;
@@ -49,12 +55,6 @@ namespace ExtraCredit
             Genre = genre;
             Publisher = publisher;
             GlobalSales = 0;
-        }
-        public override string ToString()
-        {
-            string output = $"{Name}. {Platform}. {Year}. {Genre}. {Publisher}. {GlobalSales.ToString("C0")}.";
-
-            return output;
-        }
+        }*/
     }
 }
