@@ -16,7 +16,7 @@ namespace Functions_Example2
 
                 Console.WriteLine("do you want to convert another grade? yes or no?");
                 answer = Console.ReadLine().ToLower();
-            } while (answer[0] == 'y'answer);
+            } while (answer[0] == 'y');
         }
 
         /// <summary>
