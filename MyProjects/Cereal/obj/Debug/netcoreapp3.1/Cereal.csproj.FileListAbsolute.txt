@@ -1,0 +1,13 @@
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal.exe
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal_Data.txt
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal.deps.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal.runtimeconfig.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal.runtimeconfig.dev.json
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\bin\Debug\netcoreapp3.1\Cereal.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.AssemblyInfoInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.AssemblyInfo.cs
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.csproj.CoreCompileInputs.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.dll
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.pdb
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.genruntimeconfig.cache

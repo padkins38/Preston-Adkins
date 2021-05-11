@@ -7,11 +7,23 @@ namespace String_manip_for___in_double
         static void Main(string[] args)
         {
             string text = "$200";
-            if (text.Substring(0,1) == "$")
+            Console.WriteLine(text.Replace("$",""));
+
+
+
+
+
+
+
+            /*if (text.Substring(0, 1) == "$")
             {
 
                 string newtext = text.Substring(1, text.Length - 1);
                 int NEWNUM = Convert.ToInt32(newtext);
+
+
+
+
                 NEWNUM += 69;
                 Console.WriteLine(NEWNUM.ToString());
 
@@ -19,7 +31,7 @@ namespace String_manip_for___in_double
             else
             {
                 Console.WriteLine("Continue to write sentences");
-            }
+            }*/
         }
     }
 }

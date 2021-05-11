@@ -16,12 +16,8 @@ namespace Functions_Example2
 
                 Console.WriteLine("do you want to convert another grade? yes or no?");
                 answer = Console.ReadLine().ToLower();
-            } while (answer[0] == 'y');
-
-
-
+            } while (answer[0] == 'y'answer);
         }
-
 
         /// <summary>
         /// Converts a grade (e.g. 78.6) to a letter grade (C)
@@ -31,7 +27,6 @@ namespace Functions_Example2
         static string ConverGradeToLetterGrade(double grade)
         {
             string letter = "" ;
-
             if (grade >= 90)
             {
                 letter = "A";
