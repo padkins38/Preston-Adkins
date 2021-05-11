@@ -20,27 +20,29 @@ namespace Cereal
                 //pieces = { "100% Bran", "Nabisco", "70", ".33"}
                 g.Manufacturer = pieces[0];
                 g.Name = pieces[1];
-                g.Calories = Convert.ToDouble(pieces[2]);
-                g.Cups = Convert.ToDouble(pieces[3]);
+                /*g.GetCalories();*/
+                g.SetCalories(Convert.ToDouble(pieces[2]));
+                /*g.GetCups();*/
+                g.SetCups(Convert.ToDouble(pieces[3]));
                 Cereals.Add(g);
             }
             foreach  (Cereal item in Cereals)
             {
                 //Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.Calories}|{item.Cups}");
-                if (item.Cups >= 1)
+                if (item.GetCups() >= 1)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.Calories}|{item.Cups}");
+                    Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.GetCalories()}|{item.GetCups()}");
                 }
-                else if (item.Calories <= 100)
+                else if (item.GetCalories() <= 100)
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.Calories}|{item.Cups}");
+                    Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.GetCalories()}|{item.GetCups()}");
                 }
-                else if (item.Cups >= 1 && item.Calories <= 100)
+                else if (item.GetCups() >= 1 && item.GetCalories() <= 100)
                 {
                     Console.ForegroundColor = ConsoleColor.Magenta;
-                    Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.Calories}|{item.Cups}");
+                    Console.WriteLine($"{item.Manufacturer}|{item.Name}|{item.GetCalories()}|{item.GetCups()}");
                 }
             }
         }

@@ -9,12 +9,33 @@ namespace Cereal
 
         public string Manufacturer { get; set; }
         public string Name { get; set; }
-        public double Calories { get; set; }
-        public double Cups { get; set; }
-
-        public override string ToString()
+        //for private
+        private double Calories;
+        private double Cups;
+        public Cereal(double cups, double calories)
         {
-            return $"{Manufacturer}|{Name}|{Calories.ToString("C0")}|{Cups.ToString("C0")}";
+            Manufacturer = string.Empty;
+            Name = string.Empty;
+            Calories = calories;
+            Cups = cups;
+        }            
+        //private cups
+        public double GetCups()
+        {
+            return Cups;
+        }
+        public void SetCups(double cup)
+        {
+            Cups += cup;
+        }
+        //private calories
+        public double GetCalories()
+        {
+            return Calories;
+        }
+        public void SetCalories(double calorie)
+        {
+            Calories += calorie;
         }
         public Cereal()
         {
@@ -22,6 +43,10 @@ namespace Cereal
             Name = string.Empty;
             Calories = 0;
             Cups = 0;
+        }
+        public override string ToString()
+        {
+            return $"{Manufacturer}|{Name}|{Calories.ToString("C0")}|{Cups.ToString("C0")}";
         }
 
 
