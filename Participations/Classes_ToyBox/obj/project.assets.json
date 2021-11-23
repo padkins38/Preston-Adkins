@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Classes_ToyBox\\Classes_ToyBox.csproj",
+      "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Classes_ToyBox\\Classes_ToyBox.csproj",
       "projectName": "Classes_ToyBox",
-      "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Classes_ToyBox\\Classes_ToyBox.csproj",
+      "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Classes_ToyBox\\Classes_ToyBox.csproj",
       "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\Participations\\Classes_ToyBox\\obj\\",
+      "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\Participations\\Classes_ToyBox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

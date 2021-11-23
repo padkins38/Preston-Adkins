@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

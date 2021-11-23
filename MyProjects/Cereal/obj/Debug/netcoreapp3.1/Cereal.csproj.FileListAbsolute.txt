@@ -11,3 +11,4 @@ C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreap
 C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.dll
 C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.pdb
 C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.genruntimeconfig.cache
+C:\Users\padki\Source\Repos\Preston-Adkins\MyProjects\Cereal\obj\Debug\netcoreapp3.1\Cereal.csprojAssemblyReference.cache

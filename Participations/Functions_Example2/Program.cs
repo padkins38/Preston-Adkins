@@ -18,12 +18,6 @@ namespace Functions_Example2
                 answer = Console.ReadLine().ToLower();
             } while (answer[0] == 'y');
         }
-
-        /// <summary>
-        /// Converts a grade (e.g. 78.6) to a letter grade (C)
-        /// </summary>
-        /// <param name="grade">A double representing the grade</param>
-        /// <returns>The letter grade accosiated with the grade, and N/A if the grade is below 0</returns>
         static string ConverGradeToLetterGrade(double grade)
         {
             string letter = "" ;
@@ -54,8 +48,5 @@ namespace Functions_Example2
 
             return letter;
         }
-
-
-
     }
 }

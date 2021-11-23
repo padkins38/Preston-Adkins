@@ -8,8 +8,7 @@ namespace Functions_1
         {
             DeveloperInformation("", "", "");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("hello");
-
+    
             string answer;
             double val1;
             double val2 = 0;

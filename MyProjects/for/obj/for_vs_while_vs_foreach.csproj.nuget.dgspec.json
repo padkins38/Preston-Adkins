@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj": {}
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj": {
+    "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj",
+        "projectUniqueName": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj",
         "projectName": "for_vs_while_vs_foreach",
-        "projectPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj",
+        "projectPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\MyProjects\\for\\for_vs_while_vs_foreach.csproj",
         "packagesPath": "C:\\Users\\padki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padki\\Source\\Repos\\Preston-Adkins\\MyProjects\\for\\obj\\",
+        "outputPath": "C:\\Users\\padki\\source\\repos\\Preston-Adkins\\MyProjects\\for\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

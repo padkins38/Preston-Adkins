@@ -1,0 +1,79 @@
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\(P) MVC.dll.config
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\(P) MVC.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\(P) MVC.pdb
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\csc.exe
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\csc.exe.config
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\csc.rsp
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\csi.exe
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\csi.exe.config
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\csi.rsp
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.AppContext.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Console.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Net.Http.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\vbc.exe
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\vbc.exe.config
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\vbc.rsp
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Antlr3.Runtime.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Newtonsoft.Json.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Helpers.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Mvc.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Optimization.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Razor.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.WebPages.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\WebGrease.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Helpers.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Mvc.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Optimization.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.Razor.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.WebPages.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Newtonsoft.Json.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Antlr3.Runtime.pdb
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\obj\Debug\(P) MVC.csproj.AssemblyReference.cache
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\obj\Debug\(P) MVC.csproj.CoreCompileInputs.cache
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\obj\Debug\(P) MVC.csproj.CopyComplete
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\obj\Debug\(P) MVC.dll
+C:\Users\padki\source\repos\Preston-Adkins\MVC_Participation\(P) MVC\obj\Debug\(P) MVC.pdb

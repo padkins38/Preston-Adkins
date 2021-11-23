@@ -7,13 +7,7 @@ namespace String_manip_for___in_double
         static void Main(string[] args)
         {
             string text = "$200";
-            Console.WriteLine(text.Replace("$",""));
-
-
-
-
-
-
+            Console.WriteLine(text.Replace("$", ""));
 
             /*if (text.Substring(0, 1) == "$")
             {
@@ -24,7 +18,7 @@ namespace String_manip_for___in_double
 
 
 
-                NEWNUM += 69;
+                NEWNUM += 60;
                 Console.WriteLine(NEWNUM.ToString());
 
             }

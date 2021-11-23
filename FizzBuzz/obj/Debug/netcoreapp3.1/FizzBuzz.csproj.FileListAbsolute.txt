@@ -11,3 +11,5 @@ C:\Users\padki\source\repos\Preston-Adkins\FizzBuzz\obj\Debug\netcoreapp3.1\Fizz
 C:\Users\padki\source\repos\Preston-Adkins\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
 C:\Users\padki\source\repos\Preston-Adkins\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
 C:\Users\padki\Source\Repos\Preston-Adkins\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\padki\source\repos\Preston-Adkins\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\padki\source\repos\Preston-Adkins\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
