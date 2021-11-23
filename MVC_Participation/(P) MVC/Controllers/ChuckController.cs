@@ -23,7 +23,7 @@ namespace _P__MVC.Controllers
                 joke = JsonConvert.DeserializeObject<RandomChuckJokeAPI>(json);
             }
 
-            return View();
+            return View(joke);
         }
     }
 }
